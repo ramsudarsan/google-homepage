@@ -1,0 +1,1 @@
+This is my first assignment through The Odin Project. It's my first time using Git on my own and also my first time attempting an HTML/CSS "project" of this magnitude.
