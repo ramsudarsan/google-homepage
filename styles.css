@@ -1,0 +1,42 @@
+.body{
+    color: #5f6368;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+}
+
+.homepage{
+    min-width: 300px;
+    max-width: 5000px;
+}
+
+/* the center part */
+.center{
+    position: relative;
+    margin: 0 auto;
+    top: 8em;
+    text-align: center;
+}
+
+.logo{
+    
+}
+
+.centerform .text {
+    border-radius: 3px;
+    width: 420px;
+    height: 20px;
+}
+
+.centerform .text:hover {
+    
+}
+
+.centerform .buttons {
+    margin: 1em;
+}
+.centerform .buttons input{
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: .5em;
+}
+
